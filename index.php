@@ -1,4 +1,3 @@
-<!-- Learnprogramo - programming made simple -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
